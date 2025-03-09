@@ -20,5 +20,5 @@ Dashboard ini merupakan hasil analisis data kualitas udara di tiga kota, yaitu *
 2. Run the app
 
    ```
-   $ streamlit run dashboard_air.py
+   $ streamlit run dashboard/dashboard_air.py
    ```
